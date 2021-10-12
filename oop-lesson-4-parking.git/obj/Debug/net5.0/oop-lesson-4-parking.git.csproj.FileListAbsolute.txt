@@ -1,0 +1,5 @@
+C:\Users\graci\source\repos\oop-lesson-4-parking.git\obj\Debug\net5.0\oop-lesson-4-parking.git.csproj.AssemblyReference.cache
+C:\Users\graci\source\repos\oop-lesson-4-parking.git\obj\Debug\net5.0\oop-lesson-4-parking.git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graci\source\repos\oop-lesson-4-parking.git\obj\Debug\net5.0\oop-lesson-4-parking.git.AssemblyInfoInputs.cache
+C:\Users\graci\source\repos\oop-lesson-4-parking.git\obj\Debug\net5.0\oop-lesson-4-parking.git.AssemblyInfo.cs
+C:\Users\graci\source\repos\oop-lesson-4-parking.git\obj\Debug\net5.0\oop-lesson-4-parking.git.csproj.CoreCompileInputs.cache
